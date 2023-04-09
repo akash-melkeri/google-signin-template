@@ -1,0 +1,16 @@
+{
+  "appId": "org.capacitor.quasar.app",
+  "appName": "Google Auth",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "GSignin": {
+      "scopes": [
+        "profile",
+        "email"
+      ],
+      "serverClientId": "1043939121137-33odr2g5j0gqr68a8g32adeugarbq6rl.apps.googleusercontent.com"
+    }
+  }
+}
