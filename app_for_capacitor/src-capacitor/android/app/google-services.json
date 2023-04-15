@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1043939121137",
+    "project_id": "producthunt-377508",
+    "storage_bucket": "producthunt-377508.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043939121137:android:3d0a9582e1e908ce5e5650",
+        "android_client_info": {
+          "package_name": "org.capacitor.quasar.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043939121137-25oaasp69v89cs4u106a2semem60o053.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.capacitor.quasar.app",
+            "certificate_hash": "e7c63db096cfd31a991ae43909768fa6989d4e2b"
+          }
+        },
+        {
+          "client_id": "1043939121137-mq1c0o76mus1792drhsmhrr68s2eli5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlM8xfW4njhImcVqvBtIupSdfIvje36Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043939121137-diddjf5i2ij38490uhiad8bti9k7hdjk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
